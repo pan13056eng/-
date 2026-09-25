@@ -12324,6 +12324,7 @@ rules:
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
 
 # ══════════════ 🚪 国内直连 —— 想直连的域名加在这里 ══════════════
+- DOMAIN,www.workbuddy.ai,🚪 国内直连
 - DOMAIN,upos-hz-mirrorakam.akamaized.net,🚪 国内直连
 - DOMAIN,blzddist1-a.akamaihd.net,🚪 国内直连
 - DOMAIN,officecdn-microsoft-com.akamaized.net,🚪 国内直连
