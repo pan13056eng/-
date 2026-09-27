@@ -154,7 +154,6 @@ rules:
 - PROCESS-NAME,findmydevice-user-agent,🍎 Apple
 - PROCESS-NAME,netbiosd,🍎 Apple
 # ── DIRECT ──
-- DOMAIN-SUFFIX,nodeseek.com,DIRECT
 - DOMAIN-SUFFIX,061517.xyz,DIRECT
 - DOMAIN-SUFFIX,steamcontent.com,DIRECT
 - DOMAIN,dl.steam.clngaa.com,DIRECT
